@@ -1,4 +1,4 @@
-<h1>Olá 👋 meu nome é Gabi!</h1>
+<h1 align="center">Olá 👋 meu nome é Gabi!</h1>
 <ul>
   <li>📚 Estudante de Análise e Desenvolvimento de Sistemas.
 </li>
