@@ -1,7 +1,13 @@
 <h1>Olá 👋 meu nome é Gabi!</h1>
-  - 📚 Estudante de Análise e Desenvolvimento de Sistemas.
-  - 🌱 Buscando novos conhecimentos.
-  - 💻 Explorando data science.
+<ul>
+  <li>📚 Estudante de Análise e Desenvolvimento de Sistemas.
+</li>
+  <li>🌱 Buscando novos conhecimentos.
+</li>
+  <li>💻 Explorando data science.
+</li>
+  
+</ul>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriela-medeiros-8027901b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriela-medeiros-8027901b2/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/ilovchai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ilovchai/" height="30" width="40" /></a>
