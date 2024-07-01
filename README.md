@@ -8,6 +8,7 @@
 </li>
   
 </ul>
+<h3 align="left">Redes Sociais</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriela-medeiros-8027901b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriela-medeiros-8027901b2/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/ilovchai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ilovchai/" height="30" width="40" /></a>
